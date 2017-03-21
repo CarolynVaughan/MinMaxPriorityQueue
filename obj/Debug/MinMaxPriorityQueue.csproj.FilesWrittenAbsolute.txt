@@ -1,0 +1,5 @@
+/Users/contrail/Projects/Programming Projects/MinMaxPriorityQueue/MinMaxPriorityQueue/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/contrail/Projects/Programming Projects/MinMaxPriorityQueue/MinMaxPriorityQueue/bin/Debug/MinMaxPriorityQueue.dll.mdb
+/Users/contrail/Projects/Programming Projects/MinMaxPriorityQueue/MinMaxPriorityQueue/bin/Debug/MinMaxPriorityQueue.dll
+/Users/contrail/Projects/Programming Projects/MinMaxPriorityQueue/MinMaxPriorityQueue/obj/Debug/MinMaxPriorityQueue.dll
+/Users/contrail/Projects/Programming Projects/MinMaxPriorityQueue/MinMaxPriorityQueue/obj/Debug/MinMaxPriorityQueue.dll.mdb
